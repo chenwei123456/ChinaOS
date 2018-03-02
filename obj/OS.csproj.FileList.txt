@@ -1,0 +1,12 @@
+bin\Debug\OS.exe
+bin\Debug\OS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OS.Form1.resources
+obj\Debug\OS.Properties.Resources.resources
+obj\Debug\OS.csproj.GenerateResource.Cache
+obj\Debug\OS.exe
+obj\Debug\OS.pdb
+obj\Debug\OS.AddFile.resources
+obj\Debug\OS.CmdHelp.resources
+obj\Debug\OS.EditForm.resources
+obj\Debug\OS.EditDir.resources

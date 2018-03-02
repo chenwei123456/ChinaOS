@@ -1,0 +1,8 @@
+F:\OS\OS\obj\Debug\OS.exe
+F:\OS\OS\obj\Debug\OS.pdb
+F:\OS\OS\obj\Debug\ResolveAssemblyReference.cache
+F:\OS\OS\obj\Debug\OS.Form1.resources
+F:\OS\OS\obj\Debug\OS.Properties.Resources.resources
+F:\OS\OS\obj\Debug\OS.csproj.GenerateResource.Cache
+F:\OS\OS\bin\Debug\OS.exe
+F:\OS\OS\bin\Debug\OS.pdb
